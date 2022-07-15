@@ -8,6 +8,6 @@
 | Jake Milad  | 14391544 | b2c3e | jake.milad@gmail.com       |
 
 # Milestones
-### Milestone 1 - Project Proposal, Conceptual Design: ER Diagram
 
-[https://docs.google.com/document/d/1dj6cUx1dHShTxTfyHYMpcr1M-OQVBHhPNbk9tIDabLg/edit?usp=sharing](https://docs.google.com/document/d/1dj6cUx1dHShTxTfyHYMpcr1M-OQVBHhPNbk9tIDabLg/edit?usp=sharing)
+### [Milestone 1 - Project Proposal, Conceptual Design: ER Diagram](https://docs.google.com/document/d/1dj6cUx1dHShTxTfyHYMpcr1M-OQVBHhPNbk9tIDabLg/edit?usp=sharing)
+
