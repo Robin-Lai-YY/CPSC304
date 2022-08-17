@@ -1,5 +1,5 @@
 # CPSC 304: Introduction to Relational Databases Group 34
-
+The Original repo link: https://github.students.cs.ubc.ca/CPSC304-2022S-T2/project_b2c3e_l4h6k_q2h2b
 # Team Member
 | Name        | Student# | CS ID | Email                      |
 |-------------|----------|-------|----------------------------|
