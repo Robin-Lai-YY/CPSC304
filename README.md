@@ -18,3 +18,15 @@ TA Contact Info: Dora Ni (she/her), nijiayi1@student.ubc.ca
 ### [Milestone 3 - Project Check-in](https://docs.google.com/document/d/1l8AY_FCBZrhRsUQJBua1kwJ2tSBB4q4IeGZt8ryjcn8/edit)
 
 ### [Milestone 4 - Code Implementation](https://docs.google.com/document/d/1qCis9gy13Ffa-SV7HHroUVu6TJOE7mS9pCYk-IKG8BI/edit)
+
+# Screenshot
+### Main page
+![alt text](main%20page.png)
+
+### Insertion
+![alt text](Insert.png)
+
+### Projection
+![alt text](Projection.png)
+
+
